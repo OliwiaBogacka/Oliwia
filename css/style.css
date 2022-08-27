@@ -1,0 +1,28 @@
+.container {
+    font-size: 700px;
+    margin: 0 auto;
+    background: rgb(2, 23, 78);
+}
+.header {
+    width: 100%;
+    color:blanchedalmond;
+    text-align: center;
+}
+.name {
+    font-size:90px;
+    color:rgb(14, 158, 241);
+    font-weight: 900;
+    cursor:pointer;
+    font-style:italic;
+
+}
+.name:hover {
+    color:rgb(13, 245, 214);
+    transition: all .2s ease-in-out;
+}
+
+.text {
+    font-size: 50px;
+    color:white;
+    font-style: italic;
+}
